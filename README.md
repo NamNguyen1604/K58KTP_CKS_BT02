@@ -39,3 +39,5 @@ Khuyến khích giải thích rủi ro: padding oracle, replay, key leak.
 
 OpenSSL, iText7/BouncyCastle, pypdf/PyPDF2.
 Tham khảo chuẩn PDF: ISO 32000-2 (PDF 2.0) và ETSI EN 319 142 (PAdES).
+tạm thời bài của em chưa fix xong  ;(( 
+![Uploading image.png…]()
